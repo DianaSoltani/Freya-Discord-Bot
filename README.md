@@ -1,6 +1,6 @@
 # Freya Discord Bot
-###In-Development
+### In-Development
 
 Sections:
-*Description
-*Commands
+* [Description]
+* [Commands]
