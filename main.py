@@ -22,7 +22,7 @@ async def on_message(message):
         msg = 'Hello {0.author.mention}'.format(message)
         await client.send_message(message.channel, msg)
     if message.content.startswith('!who-sucks'):
-        msg = 'AARON SUCKS! HAHAHA!'.format(message)
+        msg = 'GI0 SUCKS! HAHAHA!'.format(message)
         await client.send_message(message.channel, msg)
     if message.content.startswith('!cool'):
         await client.send_message(message.channel, 'Who is cool? Type !name name here')
