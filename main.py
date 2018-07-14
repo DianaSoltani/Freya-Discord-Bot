@@ -9,7 +9,7 @@ import discord
 #from features import *
 #from settings import *
 
-TOKEN = 'NDY2MzY1OTQzOTEyNzI2NTQ5.DibA2w.Ym2fW6Pyolw0MguTcY07CJbCJ1M'
+TOKEN = ''
 
 client = discord.Client()
 
